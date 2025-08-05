@@ -10,7 +10,6 @@ This project automates the retrieval of case information from the Delhi High Cou
 - 🔍 Captures and solves number-based CAPTCHA using **Tesseract OCR**
 - 📥 Downloads and saves the related case PDF
 - 🌐 Flask-based web interface for user interaction
-- 🧠 Assisted by **ChatGPT** for troubleshooting and development support
 
 -----------------
 
@@ -84,7 +83,7 @@ Input the result in the form for bypass
 🤖 Credits
 Developed by [Atharv Singh]
 
-Prompt engineering & debugging with ChatGPT (OpenAI)
+Prompt engineering & debugging with OpenAI
 
 CAPTCHA OCR using Tesseract
 
